@@ -1,0 +1,1 @@
+export const makeEmptyGrid = (rows: number) => (cols: number) => [];
